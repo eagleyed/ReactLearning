@@ -2,6 +2,7 @@
 
 # dependencies
 /node_modules
+/src-for-counter-example
 /.pnp
 .pnp.js
 
