@@ -7,7 +7,7 @@ const App = () => {
   //const [market, setMarket] = useState("Bangalore");
 
   useEffect(() => {
-    fetch("https://api.data.gov.in/resource/9ef84268-d588-465a-a308-a864a43d0070?api-key=579b464db66ec23bdd0000012b6a45f5b99d4e715bdbd63991b2b141&format=json&offset=0&limit=100")
+    fetch("https://api.data.gov.in/resource/9ef84268-d588-465a-a308-a864a43d0070?api-key=<apikey>&format=json&offset=0&limit=100")
     .then( response => response.json() )
     .then( res => setApiData(res.records) )
   }, [])
