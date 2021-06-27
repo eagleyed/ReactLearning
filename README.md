@@ -1,10 +1,10 @@
-## About the app
+# About the Todo App
 
-This is a small web application built with `ReactJS`, `Redux (not redux toolkit)` and `TailwindCSS`
+This is a small todo web application built with `ReactJS`, `Redux (not redux toolkit)` and `TailwindCSS` This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). The whole concept is taken from the official react-redux documentation and coded it of my own without any `copy/paste`.
 
 ## Installation
 
-Clone or download and then cd to that project folder and run `npm install`
+Clone or download and then cd to that project folder and run `npm install`. You can do whatever you want with it without my permission :)
 
 ## Available Scripts
 
