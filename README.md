@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+## About the app
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a small web application built with `ReactJS`, `Redux (not redux toolkit)` and `TailwindCSS`
 
 ## Installation
 
